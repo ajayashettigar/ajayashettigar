@@ -3,7 +3,7 @@
 [![MasterHead](https://www.istockphoto.com/vector/abstract-dna-technology-science-medical-concept-futuristic-background-gm1386396306-444683081?phrase=bioinformatics%2C%20data%20science&searchscope=image%2Cfilm)](https://media.istockphoto.com/id/927178476/photo/medicine-and-future-backdrop.jpg?s=1024x1024&w=is&k=20&c=WIpa3iZt044fhEBn5XydKpMjYuiBRkX9jprjws-IaUM=)
 <h1 align="center">Hi 👋, I'm Ajay A Shettigar</h1>
 <h3 align="center">Passionate Biotechnologist and Computational Biology enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://vimeo.com/473532397">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFmZnhrdjlvYncyNzMxaWp6NjEweDlvbHVrdGo2Nmh4Yzh0YmJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
 
 - 🔭 I’m currently working on **In silico approach to solve FRD**
 

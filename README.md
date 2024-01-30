@@ -2,7 +2,7 @@
 
 <!-- Markdown -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif" alt="MasterHead" style="width: 1584px; height: 100px;">
+  <img src="https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif" alt="MasterHead" style="width: 1584px; height: 200px;">
 </div>
 <h1 align="center">Hi 👋, I'm Ajay A Shettigar</h1>
 <h3 align="center">Passionate Biotechnologist and Computational Biology enthusiast</h3>

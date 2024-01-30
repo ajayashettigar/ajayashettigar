@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://img.freepik.com/premium-vector/hand-that-completes-dna-helix-genetic-concept-vector-illustration-used-info-graphic_142963-585.jpg?w=360)]
+[![MasterHead](https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif)]
 <h1 align="center">Hi 👋, I'm Ajay A Shettigar</h1>
 <h3 align="center">Passionate Biotechnologist and Computational Biology enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFmZnhrdjlvYncyNzMxaWp6NjEweDlvbHVrdGo2Nmh4Yzh0YmJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">

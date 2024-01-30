@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-[![MasterHead](https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif)]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Page Title</title>
+  <style>
+    body {
+      background: url('https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif') no-repeat center center fixed; 
+      background-size: cover;
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 <h1 align="center">Hi 👋, I'm Ajay A Shettigar</h1>
 <h3 align="center">Passionate Biotechnologist and Computational Biology enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFmZnhrdjlvYncyNzMxaWp6NjEweDlvbHVrdGo2Nmh4Yzh0YmJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">

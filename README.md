@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Bioinformatics projects' open source**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing](https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing)
+- 👨‍💻 All of my video editing projects are available at [https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing](https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing)
 
-- 💬 Ask me about **Molecular docking, MD simulations and Content creation**
+- 💬 Ask me about **Molecular docking, MD simulations, Video editing, Content creation and 2D Motion Graphics**
 
 - 📫 How to reach me **ajshettigar1253@gmail.com**
 

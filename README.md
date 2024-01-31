@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python (Advanced), Django**
 
-- 👯 I’m looking to collaborate on **Bioinformatics projects' open source**
+- 👯 I’m looking to collaborate on **Bioinformatics projects through open source**
 
 - 👨‍💻 All of my video editing projects are available at [https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing](https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing)
 

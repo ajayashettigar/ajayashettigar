@@ -8,7 +8,7 @@
 <h3 align="center">Passionate Biotechnologist and Computational Biology enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFmZnhrdjlvYncyNzMxaWp6NjEweDlvbHVrdGo2Nmh4Yzh0YmJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
 
-- 🔭 I’m currently working on **In silico approach to solve the post harvest losses in Arecanut due to FRD**
+- 🔭 I’m currently working on **In silico approach to solve the post harvest losses in Arecanut due to FRD (Fruit Rot Disease)**
 
 - 🌱 I’m currently learning **Python (Advanced), Django**
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste 🙏🏼
 
 <!-- Markdown -->
 <div align="center">

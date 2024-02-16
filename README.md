@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **In silico approach to solve the post harvest losses in Arecanut due to FRD (Fruit Rot Disease)**
 
-- 🌱 I’m currently learning **Python (Advanced), Django**
+- 🌱 I’m currently learning **Python (Advanced) and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Bioinformatics projects through open source**
+- 👯 I’m looking to collaborate on **Bioinformatics projects through open source projects**
 
 - 👨‍💻 All of my video editing projects are available at [https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing](https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing)
 

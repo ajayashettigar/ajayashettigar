@@ -8,11 +8,11 @@
 <h3 align="center">Passionate Bioinformatician and AIML enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFmZnhrdjlvYncyNzMxaWp6NjEweDlvbHVrdGo2Nmh4Yzh0YmJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
 
-- 🔭 I’m currently working on **In silico approach to solve the post harvest losses in Arecanut due to FRD (Fruit Rot Disease)**
+- 🔭 I’m currently working as **JRF at the Department of Medical Genetics, KMC Manipal**
 
-- 🌱 I’m currently learning **Python (Advanced) and Machine Learning**
+🌱 I’m currently researching **HPV integration in the human genome**
 
-- 👯 I’m looking to collaborate on **Bioinformatics projects through open source projects**
+👯 I’m looking to collaborate on **bioinformatics and web development projects through open source/freelancing**
 
 - 👨‍💻 All of my video editing projects are available at [https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing](https://sites.google.com/view/ajayashettigar-portfolio?usp=sharing)
 
